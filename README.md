@@ -19,9 +19,11 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 3.root@instance-2:~/plutus# cd database/
 
 4.root@instance-2:~/plutus/database#chmod +x get_address.sh
+
 this will download the latest bitcoin address dump with balance and will create a folder address and will save database as addresses.csv.this requires around 800-900 MB Space.remember running this script will delete old contains from db folder.
 
-5.now we need to convert csv database to .pickle 
+5.now we need to convert csv database to .pickle
+
 root@instance-2:~/plutus/database# python3 convert_to_pickle.py
 
 it will create .pickle files in db folder(each with 1,00,000 entries)
