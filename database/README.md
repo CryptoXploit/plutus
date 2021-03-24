@@ -9,7 +9,7 @@ The name of the database folder is db. The database will be updated every month 
 
 The database currently holds `1,50,00,000 Bitcoin addresses`.
 
-This can be verified by removing the hashtag on <a href="https://github.com/Isaacdelly/Plutus/blob/master/plutus.py#L134">Line 134</a> before running the program. This will print the size of the database.
+This can be verified by removing the hashtag on <a href="https://github.com/CryptoXploit/plutus/blob/main/plutus.py#L134">Line 134</a> before running the program. This will print the size of the database.
 
 ### Why Are There So Many Files?
 
