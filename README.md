@@ -12,7 +12,7 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 
 # Installation & Quick Steps
 
-1.root@instance-2:~#git clone https://github.com/cryptoxploit/plutus.git
+1.root@instance-2:~#git clone https://github.com/CryptoXploit/plutus.git
 
 2.root@instance-2:~#cd plutus
 
